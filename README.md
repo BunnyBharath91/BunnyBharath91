@@ -9,7 +9,7 @@ src="https://media.craiyon.com/2025-07-29/szTlOaHMTRO5Qn_xriCqIA.webp"/>
 - 🔭 I’m currently building **Chat2Site** — an AI-powered platform to generate and refine websites using natural language prompts
 
 - 👨‍💻 All of my projects are available at  
-  **https://bharath-kumar-borra.onrender.com**
+  **https://bharath-kumar-borra.vercel.app**
 
 - 📫 Reach me at  
   **bharathkumarborra1@gmail.com**
