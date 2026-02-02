@@ -6,7 +6,7 @@ Full Stack Developer | Passionate about building scalable and interactive web ap
 <img align="right" alt="Coding" width="400"
 src="https://media.craiyon.com/2025-07-29/szTlOaHMTRO5Qn_xriCqIA.webp"/>
 
-- 🔭 I’m currently building **Chat2Site** — an AI-powered platform to generate and refine websites using natural language prompts
+- 🔭 I’m currently building **Chat2Site** - an AI-powered platform to generate and refine websites using natural language prompts
 
 - 👨‍💻 All of my projects are available at  
   **https://bharath-kumar-borra.vercel.app**
