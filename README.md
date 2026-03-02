@@ -26,36 +26,32 @@ src="https://media.craiyon.com/2025-07-29/szTlOaHMTRO5Qn_xriCqIA.webp"/>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
-
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
 
 <!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1724439954/kuw0aweysrls53h3whrh.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1730466461/wox8wbiv4oi7n3j8u8pc.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1724439953/texqvu12n8jznekfv4um.png" width="40" height="40"/>
 
 <!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1724439948/rifxhjei2gds36vhimd6.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1730466310/vwtedwb2sl3oz0kbua1u.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1724439949/mlecpyo9wxbtnifyuyre.svg" width="40" height="40"/>
 
 <!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1724441628/c96wrordinuou1ixcu2s.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1724441944/qx40boi7auijcgcc1va3.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1769064153/c2eaq2u1tm9lbfayhbzr.webp" width="40" height="40"/>
 
 <!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1769221330/yipmin8wzbdzpn3gy0bh.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1724439949/qvxlkiya3ismnfxbmkyh.svg" width="40" height="40"/>
 
 <!-- Tools -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1724439948/la6xlsyeszldgznyvo5u.svg" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1724441938/ypyg0uhrcrdmiigfkphx.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1770869883/xq1jqa8yeceqyrb137c9.png" width="40" height="40"/>
+<img src="https://res.cloudinary.com/drbnxuf21/image/upload/v1770870165/kt2t4sxsr9aqtdy2nvsj.png" width="40" height="40"/>
 
 </p>
-
