@@ -6,7 +6,7 @@ Full Stack Developer | Passionate about building scalable and interactive web ap
 <img align="right" alt="Coding" width="400"
 src="https://media.craiyon.com/2025-07-29/szTlOaHMTRO5Qn_xriCqIA.webp"/>
 
-- 🔭 I’m currently building **Chat2Site** - an AI-powered platform to generate and refine websites using natural language prompts
+- 🔭 I’m building **Plan Lift**, an AI-powered architectural visualization platform that transforms 2D floor plans into photorealistic 3D environments. Built with **React**, **TypeScript**, and Puter.js, it leverages state-of-the-art AI models like Claude and Gemini.
 
 - 👨‍💻 All of my projects are available at  
   **https://bharath-kumar-borra.vercel.app**
@@ -14,16 +14,13 @@ src="https://media.craiyon.com/2025-07-29/szTlOaHMTRO5Qn_xriCqIA.webp"/>
 - 📫 Reach me at  
   **bharathkumarborra1@gmail.com**
 
-- ⚡ Fun fact  
-  **I once wrote an entire app in one night - only to find out I reinvented the calculator! 😄**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bharathkumar960" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
 <a href="https://linkedin.com/in/bharathkumarb1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+ <a href="https://twitter.com/bharathkumar960" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 <a href="https://instagram.com/__bunny_bharath_" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
