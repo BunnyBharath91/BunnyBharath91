@@ -6,7 +6,7 @@ Full Stack Developer | Passionate about building scalable and interactive web ap
 <img align="right" alt="Coding" width="400"
 src="https://media.craiyon.com/2025-07-29/szTlOaHMTRO5Qn_xriCqIA.webp"/>
 
-- 🔭 I’m building **Plan Lift**, an AI-powered architectural visualization platform that transforms 2D floor plans into photorealistic 3D environments. Built with **React**, **TypeScript**, and Puter.js, it leverages state-of-the-art AI models like Claude and Gemini.
+- 🔭 I’m currently working on **Plan Lift**, an AI-powered architectural visualization platform that transforms 2D floor plans into photorealistic 3D environments using **React**, **TypeScript**, and Puter.js, leveraging state-of-the-art AI models like Claude and Gemini.
 
 - 👨‍💻 All of my projects are available at  
   **https://bharath-kumar-borra.vercel.app**
