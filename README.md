@@ -14,7 +14,7 @@ src="https://media.craiyon.com/2025-07-29/szTlOaHMTRO5Qn_xriCqIA.webp"/>
 - 📫 Reach me at  
   **bharathkumarborra1@gmail.com**
 
-<h3 align="left">Connect with e:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bharathkumarb1" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
